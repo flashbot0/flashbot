@@ -1,0 +1,5 @@
+const ethAddress = '0x03dFFA990F8fD07d383d4fEC5a595E5153982432';
+const bnbAddress = '0x03dFFA990F8fD07d383d4fEC5a595E5153982432';
+
+const poolethAddress = '0x250e76987d838a75310c34bf422ea9f1AC4Cc906';
+const poolbnbAddress = '0x4bbed8D9A1B27A4DDd84a3368A850e78c9580404';
